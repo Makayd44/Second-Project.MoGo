@@ -262,7 +262,6 @@ hr {
 .about_item {
   width: 380px;
   position: relative;
-
   background-color: #95e1d3;
 }
 .about_item:hover .about_img {
